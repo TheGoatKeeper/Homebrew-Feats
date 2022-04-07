@@ -1,0 +1,44 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "Me",
+				"abbreviation": "Chaos Touched",
+				"full": "Me - Chaos Touched",
+				"url": "https://github.com/TheGoatKeeper/Homebrew-Feats/new/main",
+				"authors": [
+					"TheGoatKeeper"
+				],
+				"convertedBy": [
+					"ldsmadman#8990"
+				],
+				"version": "unknown"
+			}
+		],
+		"dateAdded": 1633831999,
+		"dateLastModified": 1633831999
+	},
+	"feat": [
+		{
+			"name": "Chaos Touched",
+			"source": "Me",
+			"ability": [
+				{
+					"int": 1
+					"wis": 1
+					"cha": 1
+				}
+			],
+			"entries": [
+				"Your exposure to the Elemental Chaos' magic has changed you, granting you the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.",
+						"You learn the suggestion spell and one 1st-level spell of your choice. The 1st-level spell must be from the evocation or transmutation school of magic. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat."
+					]
+				}
+			]
+		}
+	]
+}
