@@ -2,14 +2,14 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "DnDBeyond",
-				"abbreviation": "Bnd",
-				"full": "D&D Beyond",
+				"json": "QuacksBlackMagic",
+				"abbreviation": "QBM",
+				"full": "Quack's Black Magic",
 				"authors": [
-					"Adam Bradford"
+					"Quack Sawbones"
 				],
 				"convertedBy": [
-					"TheGiddyLimit"
+					"Quack Sawbones"
 				],
 				"version": "1.0.0",
 				"url": "https://rpg.rem.uz/Dungeons%20%26%20Dragons/D%26D%205th%20Edition/Core/XGE%20Bonus%20-%20Expanded%20Racial%20Feats.pdf",
@@ -22,7 +22,7 @@
 	"feat": [
 		{
 			"name": "Chaos Touched",
-			"source": "DnDBeyond",
+			"source": "QuacksBlackMagic",
 			"entries": [
 				"Your exposure to the Ethereal Plane's magic has changed you, granting you the following benefits:",
 				{
@@ -47,7 +47,7 @@
 		},
 		{
 			"name": "Ethereal Touched",
-			"source": "DnDBeyond",
+			"source": "QuacksBlackMagic",
 			"entries": [
 				"Your exposure to the Elemental Chaos' magic has changed you, granting you the following benefits:",
 				{
