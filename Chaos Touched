@@ -24,9 +24,13 @@
 			"source": "Me",
 			"ability": [
 				{
-					"int": 1
-					"wis": 1
-					"cha": 1
+					"choose": {
+						"from": [
+							"int",
+							"wis",
+							"cha"
+						],
+						"amount": 1
 				}
 			],
 			"entries": [
